@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/andrew-raine\">Andrew Raine</a>, <a href=\"/profiles/rhea-mogul\">Rhea Mogul</a> and Amarachi Orie, CNN",
+            "title": "Over 28,000 dead from quake in Turkey and Syria: Live updates - CNN",
+            "description": "More than 28,000 people have been killed and tens of thousands injured after a magnitude 7.8 earthquake struck Turkey and Syria on Monday, officials said.",
+            "url": "https://www.cnn.com/middleeast/live-news/turkey-syria-earthquake-updates-2-12-23-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230211111600-03-turkey-syria-earthquake-0211-super-tease.jpg",
+            "publishedAt": "2023-02-12T09:35:00Z",
+            "content": "At least 98 people were arrested on Saturday by Turkish security forces over the alleged looting of damaged buildings, robbery or defrauding victims of last week's devastating earthquake, Turkish sta… [+1107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Desperate Screams Of People Trapped Under The Rubble In Hatay | Turkey Earthquake Rescue Live - CNN-News18",
+            "description": "Desperate Screams Of People Trapped Under The Rubble In Hatay | Turkey Earthquake Live UpdatesAs night fell in Turkey's border province of Hatay on Monday (F...",
+            "url": "https://www.youtube.com/watch?v=KpHT_Vxj63o",
+            "urlToImage": "https://i.ytimg.com/vi/KpHT_Vxj63o/maxresdefault_live.jpg",
+            "publishedAt": "2023-02-12T08:47:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Islam Makhachev Post-Fight Press Conference | UFC 284 - UFC - Ultimate Fighting Championship",
+            "description": "UFC lightweight champion Islam Makhachev speaks with the press after defeating UFC featherweight champion Alexander Volkanovski in the main event of UFC 284....",
+            "url": "https://www.youtube.com/watch?v=TeLsVVb3USw",
+            "urlToImage": "https://i.ytimg.com/vi/TeLsVVb3USw/maxresdefault.jpg",
+            "publishedAt": "2023-02-12T08:06:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "Switch's Game Boy Library Doesn't Have A Set Schedule, According To Nintendo - Nintendo Life",
+            "description": "\"But each collection will continue to grow\"",
+            "url": "https://www.nintendolife.com/news/2023/02/switchs-game-boy-library-doesnt-have-a-set-schedule-according-to-nintendo",
+            "urlToImage": "https://images.nintendolife.com/5eaa97158937e/1280x720.jpg",
+            "publishedAt": "2023-02-12T08:00:00Z",
+            "content": "Honestly, I wish Nintendo would bring \"Boktai\" series to the switch.\r\nFor those of you who don't know. Boktai is a game by Metal Gear Solid creator Kojima for the gba. There were three in the series … [+998 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Biden lauds 'bipartisan progress' as he dines with Republican, Democratic governors - Reuters",
+            "description": "(This Feb. 11 story has been corrected to say that the name of the New Jersey Governor is Phil Murphy, not Chris Murphy, in paragraph 12)",
+            "url": "https://www.reuters.com/world/us/biden-lauds-bipartisan-progress-dinner-with-democratic-republican-governors-2023-02-12/",
+            "urlToImage": "https://www.reuters.com/resizer/zneyCxWTskyILz8krVQnkwqBM4I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RSEMUVGY5BKING7A6AAYCYI4JU.jpg",
+            "publishedAt": "2023-02-12T07:26:00Z",
+            "content": "WASHINGTON, Feb 11 (Reuters) - (This Feb. 11 story has been corrected to say that the name of the New Jersey Governor is Phil Murphy, not Chris Murphy, in paragraph 12)\r\nU.S. President Joe Biden appe… [+2501 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Brady Halbleib",
+            "title": "Spike in norovirus cases in California sparks warnings from health experts - CBS News",
+            "description": "An uptick in norovirus has some health experts cautioning people to ramp up safety protocols. California and Texas are among the top states in the country with the highest number of outbreaks.",
+            "url": "https://www.cbsnews.com/sacramento/news/spike-in-norovirus-cases-california-warnings/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/12/e9bbca37-8478-421a-a6bc-318cddaeaf09/thumbnail/1200x630/e92404b19133ae08f369cea44d115649/norovirus.jpg",
+            "publishedAt": "2023-02-12T07:23:29Z",
+            "content": "SACRAMENTO — An uptick in norovirus has some health experts cautioning people to ramp up safety protocols. California and Texas are among the top states in the country with the highest number of outb… [+1753 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Suntimes.com"
+            },
+            "author": "Georgia Nicols",
+            "title": "Horoscope for Saturday, Feb. 11, 2023 - Chicago Sun-Times",
+            "description": null,
+            "url": "https://chicago.suntimes.com/2023/2/11/23583466/horoscopes-today-saturday-feb-11-2023",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/4149b3f/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FGvfL_7Rn0d30lQ0VIXyWNOPPoPc%3D%2F0x0%3A870x630%2F870x630%2Ffilters%3Afocal%28435x315%3A436x316%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24405298%2FGeorgia_Nicols.jpg",
+            "publishedAt": "2023-02-12T06:12:00Z",
+            "content": "Moon Alert\r\nAvoid shopping or important decisions from 10:30 a.m. to 1 p.m. Chicago time. After that, the moon moves from Libra into Scorpio.\r\nAries (March 21-April 19)\r\nTread carefully, because many… [+3809 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "College basketball scores, winners and losers: Arizona stumbles at Stanford, North Carolina stops skid - CBS Sports",
+            "description": "The Cardinal upset the No. 4 Wildcats, Wisconsin blew a big lead and many more surprising results from Saturday",
+            "url": "https://www.cbssports.com/college-basketball/news/college-basketball-scores-winners-and-losers-arizona-stumbles-at-stanford-north-carolina-stops-skid/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/02/12/41203ec9-7c08-4ff7-ac1d-2f269cae9385/thumbnail/1200x675/b2cf67ead49ce576b9c7f8ddd1f9c3cb/usatsi-19977191-1.jpg",
+            "publishedAt": "2023-02-12T05:54:00Z",
+            "content": "We are just one month away from Selection Sunday for the 2023 NCAA Tournament and Saturday's full slate of action brought some February madness as an appetizer of what's ahead. The Big Dance bubble p… [+15872 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Reuters",
+            "title": "Hackers interrupt Iran president's TV speech on anniversary of revolution - CNN",
+            "description": "The Islamic Republic marked the 44th anniversary of the Iranian revolution on Saturday with state-organized rallies, as anti-government hackers briefly interrupted a televised speech by President Ebrahim Raisi.",
+            "url": "https://www.cnn.com/2023/02/12/middleeast/hackers-interrupt-iran-leader-revolution-anniversary-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230211232455-01-ebrahim-raisi-iran-speech-021123.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-12T05:49:00Z",
+            "content": "The Islamic Republic marked the 44th anniversary of the Iranian revolution on Saturday with state-organized rallies, as anti-government hackers briefly interrupted a televised speech by President Ebr… [+4112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bright Side of the Sun"
+            },
+            "author": "Trevor_Booth",
+            "title": "Seven potential targets for the Phoenix Suns in the buyout market - Bright Side Of The Sun",
+            "description": "Here’s how the Suns could boost their depth after their acquisition of Kevin Durant.",
+            "url": "https://www.brightsideofthesun.com/2023/2/11/23595897/phoenix-suns-buyout-market-acquisitions-reggie-jackson-will-barton-serge-ibaka",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/4cRR1EumaG9OeisjS6jYS_WubyY=/0x0:4037x2114/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24426662/usa_today_19488807.jpg",
+            "publishedAt": "2023-02-12T04:35:23Z",
+            "content": "The Phoenix Suns made one of the biggest moves in their franchises history with their acquisition of superstar forward Kevin Durant, who is perhaps the piece the team needs to push it to its first-ev… [+7595 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Ken Martin",
+            "title": "West coast pipeline resumes pumping gas after shutdown - Fox Business",
+            "description": "A gas pipeline near Los Angeles has resumed deliveries of gasoline to some California cities and neighboring states including Nevada and Arizona.",
+            "url": "https://www.foxbusiness.com/markets/west-coast-pipeline-resumes-pumping-gas-after-shutdown",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/02/0/0/Gas-station-pumps-A-ap.jpg?ve=1&tl=1",
+            "publishedAt": "2023-02-12T04:07:33Z",
+            "content": "A gas pipeline on the West coast that was shutdown by a leak at a pipeline facility in California has resumed operations.\r\nThe shutdown had affected deliveries of gasoline and diesel from the Los Ang… [+2300 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Turkey earthquake: Why the disaster leaves President Tayyip Erdogan vulnerable ahead of election - Global News",
+            "description": "The earthquake in Turkey has not only devastated countless lives throughout the country — with more than 21,000 killed and over 80,000 injured — it may also ...",
+            "url": "https://www.youtube.com/watch?v=PyMxC66K1jM",
+            "urlToImage": "https://i.ytimg.com/vi/PyMxC66K1jM/maxresdefault.jpg",
+            "publishedAt": "2023-02-12T04:00:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "New Species Discovered: The Largest Penguin That Ever Lived - SciTechDaily",
+            "description": "Fossil bones from two newly-described penguin species, one of them thought to be the largest penguin to ever live – weighing more than 340 pounds, more than three times the size of the largest living penguins – have been unearthed in New Zealand. An internati…",
+            "url": "https://scitechdaily.com/new-species-discovered-the-largest-penguin-that-ever-lived/",
+            "urlToImage": "https://scitechdaily.com/images/Largest-Penguin.jpg",
+            "publishedAt": "2023-02-12T03:30:34Z",
+            "content": "ByUniversity of CambridgeFebruary 11, 2023\r\nAn artists concept of Kumimanu and Petradyptes penguins on an ancient New Zealand beach. Kumimanu, the larger of the two, weighed around 340 pounds and is … [+6225 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "\"Radar Anomaly\" Detected Over US's Montana Hours After Canada Operation - NDTV",
+            "description": "Airspace was closed over part of the state of Montana on Saturday and a fighter jet was sent to investigate a \"radar anomaly\" but the plane did not find anything unusual in the sky, the US military said.",
+            "url": "https://www.ndtv.com/world-news/airspace-over-montana-briefly-shut-as-us-shoots-down-object-in-canada-3774936",
+            "urlToImage": "https://c.ndtvimg.com/2023-02/lod8oe8g_uk-jet_625x300_12_February_23.jpg",
+            "publishedAt": "2023-02-12T03:10:00Z",
+            "content": "The airspace over Montana has now reopened\r\nMontana: Airspace was closed over part of the state of Montana on Saturday and a fighter jet was sent to investigate a \"radar anomaly\" but the plane did no… [+688 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Desiree Murphy",
+            "title": "DJ Khaled shares sweet message for Rihanna ahead of Super Bowl halftime show - Page Six",
+            "description": "“RiRi, I love you so much,” the record producer told Page Six on the red carpet at Michael Rubin’s star-studded Super Bowl Fanatics party on Saturday.",
+            "url": "https://pagesix.com/2023/02/11/dj-khaled-shares-message-for-rihanna-ahead-of-super-bowl-halftime-show/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/02/newspress-collage-6682489-1676171633883.jpg?quality=75&strip=all&1676152527&w=1200",
+            "publishedAt": "2023-02-12T02:55:00Z",
+            "content": "DJ Khaled is rooting for Team Rihanna at the 2023 Super Bowl.\r\nThe rapper gave a special shout-out to his Wild Thoughts collaborator while speaking to Page Six at Michael Rubins star-studded Fanatics… [+2618 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WION"
+            },
+            "author": "WION Web Team",
+            "title": "Turkey earthquake: Contractors detained over collapsed buildings; UN says toll may reach 50,000 - WION",
+            "description": "Turkey earthquake: Contractors detained over collapsed buildings; UN says toll may reach 50,000",
+            "url": "https://www.wionews.com/world/turkey-syria-earthquake-toll-crosses-28000-as-un-relief-chief-predicts-deaths-to-top-50000-561042",
+            "urlToImage": "http://cdn.wionews.com/sites/default/files/2023/02/12/331680-untitled-design-2023-02-12t082259924.png",
+            "publishedAt": "2023-02-12T02:53:55Z",
+            "content": "UN relief chief Martin Griffiths said that the death toll of the devastating earthquake in Turkey and Syria will increase by \"double or more\" from its current toll of 28,000. On Saturday, Griffiths v… [+4334 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "FAA investigates low-speed collision at LAX | WNT - ABC News",
+            "description": "An American Airlines plane and a shuttle bus were involved in a collision as the plane was being towed from a gate to a parking area. WATCH THE FULL EPISODE ...",
+            "url": "https://www.youtube.com/watch?v=hVkppmZl5NE",
+            "urlToImage": "https://i.ytimg.com/vi/hVkppmZl5NE/maxresdefault.jpg",
+            "publishedAt": "2023-02-12T02:31:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Why are BP, Shell, and other oil giants making so much money right now? - BBC",
+            "description": "Oil and gas producers are making billions while bills soar. Should governments tax them more?",
+            "url": "https://www.bbc.com/news/business-64583982",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1371B/production/_125334697_gettyimages-1349637091.jpg",
+            "publishedAt": "2023-02-12T01:42:56Z",
+            "content": "The big oil companies - from the UK-based BP and Shell to international giants such as ExxonMobil and Norways Equinor - have been announcing astonishing profit figures.\r\nThey are all benefitting from… [+7536 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "San Francisco Chronicle"
+            },
+            "author": "Carolyn Said",
+            "title": "Explosion in S.F.'s Sunset District damaged multiple homes - San Francisco Chronicle",
+            "description": "Residents of San Francisco's Sunset District were picking through broken glass and boarding up shattered windows in the aftermath of a deadly explosion.",
+            "url": "https://www.sfchronicle.com/sf/article/sunset-district-home-explosion-17777831.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/31/35/70/23453184/5/rawImage.jpg",
+            "publishedAt": "2023-02-12T01:33:33Z",
+            "content": "Karen Lei was on a conference call for her bank job on Thursday morning when she heard a huge boom just before her front windows shattered. Glass was everywhere flying in; flying out, she said on Sat… [+3260 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "U.S. fighter jet shot down unidentified object in northern Canada - NBC News",
+            "description": "Canadian Prime Minister Justin Trudeau said a high-altitude flying object was taken down over the Yukon Saturday, after coordinating with President Biden. Th...",
+            "url": "https://www.youtube.com/watch?v=w1G-ThTMFU8",
+            "urlToImage": "https://i.ytimg.com/vi/w1G-ThTMFU8/maxresdefault.jpg",
+            "publishedAt": "2023-02-12T01:00:31Z",
+            "content": null
+        }
+    ]
+}
